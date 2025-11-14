@@ -114,6 +114,7 @@ evolution Novel->Emerging->Good->Best
 ```text
 note Note Text [0.9, 0.5]
 note +future development [0.9, 0.5]
+// start with two slashes to begin a comment anywhere in your code
 ```
 
 ## Styles
